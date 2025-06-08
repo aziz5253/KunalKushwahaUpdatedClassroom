@@ -1,4 +1,4 @@
-package ConditionalAndLoops.src.com.kunal;
+package com.kunal;
 
 import java.util.Scanner;
 
