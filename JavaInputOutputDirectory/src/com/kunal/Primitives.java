@@ -1,3 +1,5 @@
+package com.kunal;
+
 public class Primitives{
     public static void main(String[] args){
 //        int rollNo = 64;
